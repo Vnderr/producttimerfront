@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240760657875",
+    "project_id": "producttimer-bfc2c",
+    "storage_bucket": "producttimer-bfc2c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240760657875:android:0becb373e4df53db408126",
+        "android_client_info": {
+          "package_name": "com.example.producttimer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALasD8VJ-Oj8joLAJ9ddxgXKCBx6nTVXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
